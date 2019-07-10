@@ -2,7 +2,7 @@ from os import system
 
 #ACÁ ARRIBA MOSTRAR LA PROGRAMACION HARD
 #opcion 1
-#DIEGO MILLAHUAL
+
 def fn_comprar(comprador_nombre, comprador_rut,vistadeptos):
     system("cls")
     print("SISTEMA DE COMPRA DEPARTAMENTO")
@@ -201,7 +201,7 @@ def fn_comprar(comprador_nombre, comprador_rut,vistadeptos):
 
 
 #opcion 2
-#DIEGO MILLAHUAL
+
 def fn_ptolibre(vistadeptos): 
 
     system("cls")
@@ -227,7 +227,7 @@ def fn_ptolibre(vistadeptos):
     False
 
 #opcion 3
-#RODOLFO SOTO
+
 def fn_lista_comprador(comprador_rut,comprador_nombre,piso_edificio,letra_edificio):
     contador = 0
     system("cls")
@@ -245,7 +245,7 @@ def fn_lista_comprador(comprador_rut,comprador_nombre,piso_edificio,letra_edific
     input()
 
 #opcion 4
-#RODOLFO SOTO
+
 def fn_buscar(comprador_nombre,comprador_rut):
     contador = 0
     validador = False
@@ -272,7 +272,7 @@ def fn_buscar(comprador_nombre,comprador_rut):
 input()
 
 # OPCION 5
-#CARLOS JEREZ
+
 
 def fn_reasignar(comprador_rut,comprador_nombre,letra_edificio,piso_edificio):
     system("cls")
@@ -299,7 +299,7 @@ def fn_reasignar(comprador_rut,comprador_nombre,letra_edificio,piso_edificio):
     input()
 
 #OPCION 6
-#CARLOS JEREZ
+
 
 def fn_ganancias_totales(gananciasTotales):
     system("cls")
