@@ -324,7 +324,7 @@ valor_pago = []
 gananciasTotales = []
 
 
-#array que un no se como usar
+#array de vista
 vistadeptos = [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ']
 #todas en UF
 while validador == True:
